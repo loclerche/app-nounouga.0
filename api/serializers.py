@@ -57,6 +57,7 @@ class ApplicationSerializer(serializers.ModelSerializer):
             "applicant_email",
             "adresse",
             "tel",
+            "photo",
             "message",
             "applied_at",
         ]
